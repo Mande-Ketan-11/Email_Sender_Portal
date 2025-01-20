@@ -24,7 +24,7 @@ The *Email Sender Portal* is a web application that provides a seamless platform
 #### *Installation Instructions*  
 1. Clone the repository:  
    bash
-   git clone <repository-url>
+   git clone https://github.com/Mande-Ketan-11/Email_Sender_Portal
      
 2. Install and start XAMPP:  
    - Launch Apache and MySQL from the XAMPP Control Panel.  
